@@ -1,0 +1,9 @@
+{
+ "n": 5,
+ "mean_before": 0.42279999999999995,
+ "mean_after": 0.5124,
+ "mean_uplift": 0.0896,
+ "pct_improved": 0.2,
+ "rejected_by_fact_guards": 8,
+ "note": "Accepted rewrites passed both fact guards, so they contain no unsupported claims."
+}

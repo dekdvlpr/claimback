@@ -1,0 +1,11 @@
+gradio==5.50.0
+anthropic>=2.8
+python-dotenv
+pandas
+scikit-learn
+joblib
+pyarrow
+# Only needed when MODEL_BACKEND = "hf" (the fine-tuned model). Large download (~1 GB).
+torch
+transformers
+sentencepiece
