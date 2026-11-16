@@ -24,7 +24,7 @@ python -m venv .venv
 pip install -r requirements.txt
 python app.py            # then open http://127.0.0.1:7860
 ```
-Copy `.env.example` to `.env` and paste your Anthropic API key to turn on the AI checklist and rewrite.
+Copy `.env.example` to `.env` and paste your Gemini API key to turn on the AI checklist and rewrite.
 
 ## What's where
 | Path | What it is | Owner |
